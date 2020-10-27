@@ -31,4 +31,4 @@ https://img-blog.csdnimg.cn/20201027114114576.JPG#pic_center
 https://img-blog.csdnimg.cn/20201027112733293.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDcyODUzNw==,size_16,color_FFFFFF,t_70#pic_center
 
 总结
-​ 第一次实验，熟悉了Android Studio创建项目的基本操作，创建了一个Android项目HelloWorld01并且成功运行项目
+第一次实验，熟悉了Android Studio创建项目的基本操作，创建了一个Android项目HelloWorld01并且成功运行项目
